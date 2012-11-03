@@ -1,0 +1,12 @@
+TelnetBBS = -10, 7, 798, 722, , 95, 22, 862, 643, C
+Advanced = 217, 252, 820, 904, , 26, 16, 629, 609, C
+AwayMessage = 44, 46, 628, 698, C, 124, 274, 727, 926, C
+Translation = 153, 146, 763, 832, 
+LocalIPAddressesFunction = -201, 174, 563, 875, 
+TrayIcon = 54, 56, 812, 735, C
+HayesEmulation = 108, 112, 653, 746, 
+INIRoutines = 48, 44, 715, 671, 
+Telnet = 66, 66, 575, 514, 
+WindowsStuff = 22, 22, 573, 470, 
+PhoneBook = 110, 110, 727, 558, 
+Prompt = 132, 174, 834, 799, C, 220, 220, 821, 668, C
