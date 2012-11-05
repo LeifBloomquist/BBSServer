@@ -1,0 +1,8 @@
+Commodore Telnet BBS Server
+          
+A simple Windows program that acts as a 'bridge' between serial and TCP/IP, allowing you to set up a Commodore BBS that can be Telnetted to (really just a raw TCP connection).   Also allows a C64 to "dial out" over Telnet.  Yeah, yeah, it's Visual Basic 6.
+
+A list of Telnetable BBSes can be found here.
+http://cbbsoutpost.servebbs.com/
+
+My own BBS is still up and running, telnet to bbs.jammingsignal.com port 23 . 
